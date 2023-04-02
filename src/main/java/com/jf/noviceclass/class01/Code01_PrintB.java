@@ -1,6 +1,6 @@
 package com.jf.noviceclass.class01;
 
-public class Code06_PrintB {
+public class Code01_PrintB {
 
     public static void print(int num) {
 

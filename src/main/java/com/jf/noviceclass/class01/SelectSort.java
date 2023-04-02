@@ -1,4 +1,4 @@
-package com.jf;
+package com.jf.noviceclass.class01;
 
 public class SelectSort {
 

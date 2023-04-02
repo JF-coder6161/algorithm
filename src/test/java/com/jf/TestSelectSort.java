@@ -1,5 +1,6 @@
 package com.jf;
 
+import com.jf.noviceclass.class01.SelectSort;
 import org.junit.Test;
 
 import java.util.Arrays;

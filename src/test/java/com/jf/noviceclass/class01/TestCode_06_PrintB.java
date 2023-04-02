@@ -8,12 +8,12 @@ public class TestCode_06_PrintB {
     public void test1() {
 
         int num = 6666;
-        Code06_PrintB.print(num);
+        Code01_PrintB.print(num);
 
-        Code06_PrintB.print(1 << 1);
-        Code06_PrintB.print(1 << 2);
-        Code06_PrintB.print(1 << 3);
-        Code06_PrintB.print(1 << 4);
+        Code01_PrintB.print(1 << 1);
+        Code01_PrintB.print(1 << 2);
+        Code01_PrintB.print(1 << 3);
+        Code01_PrintB.print(1 << 4);
 
         System.out.println(1 << 1);
         System.out.println(1 << 2);
