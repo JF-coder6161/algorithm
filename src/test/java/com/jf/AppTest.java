@@ -15,6 +15,10 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        int a = (5) /2;
+        System.out.println(a);
+
+        int b = (int)(2-6);
+        System.out.println(b);
     }
 }
